@@ -23,7 +23,7 @@
 📌 Featured Project
 
 🔹 AI Agent – Developer Assessment
-Built an intelligent AI agent capable of automating tasks and generating contextual responses using modern LLM frameworks.
+Built an intelligent AI agent capable of automating tasks and generating contextual responses using python.
 
 👉 https://github.com/ganeshmande01/AI-Agent-Assessment
 
